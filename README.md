@@ -13,11 +13,11 @@
 
 ## Screenshots
 
-### Encryption
+### Encrypting the written message
 <img src="Python Crypto Machine/enc.png">
 
-### Decryption
+### Decrypting the written message
 <img src="Python Crypto Machine/dec.png">
 
-### Preview frames
+### Preview frame
 <img src="Python Crypto Machine/cryptoMachine-python.png">
