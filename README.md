@@ -12,6 +12,11 @@
 
 ## Screenshots
 
+### Encryption
+<img src="Python Crypto Machine/enc.png">
+
+### Decryption
+<img src="Python Crypto Machine/dec.png">
 
 ### Preview frames
 <img src="Python Crypto Machine/cryptoMachine-python.png">
